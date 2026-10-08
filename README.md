@@ -1,8 +1,8 @@
-# Project Data Preprocessing
+# Assignment Data Processing
 
-Repo ini berisi tugas mata kuliah Rekayasa Data yang dikerjakan oleh Raka Bagus Samudra (543213). Dataset yang digunakan adalah Hotel Booking dari Hugging Face.
+Repo ini berisi tugas mata kuliah Rekayasa Data tentang preprocessing data. Dataset yang digunakan adalah Hotel Booking dari Hugging Face.
 
-Semua proses ada di notebook `543213_Raka Bagus Samudra_Project Data Preprocessing.ipynb`, mulai dari mengecek kualitas data, menghapus duplikat dan data tidak valid, mengisi nilai kosong, sampai analisis korelasi, PCA, dan pembuatan fitur baru. Notebook ini juga menampilkan grafik perbandingan data sebelum dan sesudah diolah.
+Semua proses ada di notebook `assignment data processiing.ipynb`, mulai dari mengecek kualitas data, menghapus duplikat dan data tidak valid, mengisi nilai kosong, sampai analisis korelasi, PCA, dan pembuatan fitur baru. Notebook ini juga menampilkan grafik perbandingan data sebelum dan sesudah diolah.
 
 Dari hasil pengolahan, jumlah data berkurang dari 119.390 menjadi 86.970 baris, dengan 36 kolom dan tanpa nilai kosong.
 
